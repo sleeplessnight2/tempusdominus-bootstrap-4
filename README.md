@@ -8,23 +8,5 @@ The new picker under the "Tempus Dominus" brand will be completely modular. The 
 
 This new version has been completely rewritten in ES6 and uses Babel to transpile the code down.
 
-# Issues
-The issue tracker is solely for bug reports. Please ask your questions on Stack Overflow.
-
-New issues that are requests for "how do I.." will be closed and redirected to Stack Overflow.
-
-
-## Submitting Issues
-If you have issues, please check the following first:
-* Have you read the docs? 
-* Do you have the latest version of momentjs?
-* Do you have the latest version of jQuery?
-* Please test and/or fork [this jsfiddle](https://jsfiddle.net/Eonasdan/bdxss6m8/) with an example of your issue before you post an issue here.
-* Please indicate which version of the picker you are using (this can be found at the top of any included file)
-
-## Where do you use this?
-I'd love to know if your public site is using this plugin and list your logo on the documentation site. Please email me `me at eonasdan dot com`.
-
-## Priority support is available at an hourly rate. 
-
-If you have an urgent request, bug or need installation help, please contact me at `me at eonasdan dot com` for a quote.
+### It's just a copy of https://github.com/berrnd/tempusdominus-bootstrap-4
+to protect against changes or deletion by the owner that could make my projects that use this unusable.
